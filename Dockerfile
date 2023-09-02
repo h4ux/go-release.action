@@ -1,4 +1,4 @@
-FROM golang:1.19
+FROM golang:1.20
 MAINTAINER Atsushi Nagase <a@ngs.io> (https://ngs.io)
 
 LABEL "com.github.actions.name"="Go Release Binary"
